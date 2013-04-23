@@ -5,9 +5,9 @@ A positive little app to help you form good habits, or kick bad ones.
 
 The thought behind Barley came from a progress bar I saw in Rushmore.fm.
 
-Rushmore's bar was charting all the user contributions to the site over week. Each week the bar reset to count up all the contributions to the site but the total wasn't based off the best week we had had, or some arbitrary goal that the makers of the app had picked. It was simply based off the last weeks contributions. To me this was a bit of a revelation. It meant that we all strived to beat the previous week, but if we didn't, it wasnt' a big deal. In fact it meant that if you had a particularly low week, you were almost guaranteed to beat it the following week which made you feel good.
+Rushmore's bar was charting all the user contributions to the site over a week. Each week the bar reset and counted up all the contributions to the site. The interesting part is that the total wasn't based off the best week we had had, or some arbitrary goal that the makers of the app had picked. It was simply based off the last weeks contributions. To me this was a bit of a revelation. It meant that we all strived to beat the previous week, but if we didn't, it wasnt' a big deal. In fact it meant that if you had a particularly low week you were almost guaranteed to beat that the following week, which made you feel good.
 
-Overall, this helped with moral for the contributors. Never feeling like the task of contributing to the site was too gargantuan we still plug away at adding to the site, trying to beat last weeks score if we can. And so, I want to bring that to into my life to keep me positive about achieving my goals.
+Overall, this helped with moral for the contributors. Never feeling like the task of contributing to the site was too gargantuan we still plug away at adding data, trying to beat last weeks score if we can. And so, I want to bring that process into my life to keep me positive about achieving my goals.
 
 ## How it might work
 
