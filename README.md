@@ -27,7 +27,7 @@ There would be 3 steps to setting up a goal.
 I feel that limiting it to a small number of goals is a good thing. I'm going to do some research into how many things a person can take on at one time and see if there's something we can incorporate to help with that. Maybe only letting you form one habit at a time would be best. The idea being that, as per the example, when you consistantly eat fruit five times a day we prompt the user that they're awesome and they don't need Barley for fruit anymore.
 
 
-## Implimentation
+## Implementation
 
 This should be a mobile app. Something insanely simple to use that doesn't get in your way, that doesn't require complex inputs or information. I think it would be best to make it a native app however my thought is that it should be API based from the start so that you can check online from anywhere to look at your data, as well as being able to tie into different services to make is more seamless.
 
